@@ -21,7 +21,7 @@ antique bronze,#665D1E
 antique fuchsia,#915C83
 antique ruby,#841B2D
 antique white,#FAEBD7
-ao ,#008000
+ao,#008000
 apple green,#8DB600
 apricot,#FBCEB1
 aqua,#00FFFF
@@ -50,7 +50,7 @@ b'dazzled blue,#2E5894
 beau blue,#BCD4E6
 beaver,#9F8170
 beige,#F5F5DC
-big dip o’ruby,#9C2542
+big dip o'ruby,#9C2542
 bisque,#FFE4C4
 bistre,#3D2B1F
 bistre brown,#967117
@@ -114,8 +114,8 @@ cadmium green,#006B3C
 cadmium orange,#ED872D
 cadmium red,#E30022
 cadmium yellow,#FFF600
-café au lait,#A67B5B
-café noir,#4B3621
+cafÃ© au lait,#A67B5B
+cafÃ© noir,#4B3621
 cambridge blue,#A3C1AD
 camel,#C19A6B
 cameo pink,#EFBBCC
@@ -731,7 +731,7 @@ tea green,#D0F0C0
 teal,#008080
 teal blue,#367588
 telemagenta,#CF3476
-tenné ,#CD5700
+tennÃ©Â ,#CD5700
 terra cotta,#E2725B
 thistle,#D8BFD8
 tickle me pink,#FC89AC
