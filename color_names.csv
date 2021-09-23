@@ -315,7 +315,8 @@ golden yellow,#FFDF00
 goldenrod,#DAA520
 granite gray,#676767
 granny smith apple,#A8E4A0
-gray ,#808080
+gray,#808080
+green,#00FF00
 green lizard,#A7F432
 green sheen,#6EAEA1
 green-blue,#1164B4
@@ -348,7 +349,7 @@ indian yellow,#E3A857
 indigo,#4B0082
 indigo dye,#00416A
 international klein blue,#130a8f
-international orange ,#FF4F00
+international orange,#FF4F00
 iris,#5A4FCF
 irresistible,#B3446C
 isabelline,#F4F0EC
@@ -376,7 +377,7 @@ lapis lazuli,#26619C
 laser lemon,#FFFF66
 laurel green,#A9BA9D
 lava,#CF1020
-lavender ,#B57EDC
+lavender,#B57EDC
 lavender blue,#CCCCFF
 lavender blush,#FFF0F5
 lavender gray,#C4C3D0
@@ -476,7 +477,7 @@ middle yellow,#FFEB00
 middle yellow red,#ECB176
 midnight,#702670
 midnight blue,#191970
-midnight green ,#004953
+midnight green,#004953
 mikado yellow,#FFC40C
 mimi pink,#FFDAE9
 mindaro,#E3F988
@@ -519,7 +520,7 @@ old lavender,#796878
 old mauve,#673147
 old rose,#C08081
 olive,#808000
-olive drab ,#6B8E23
+olive drab,#6B8E23
 olive green,#B5B35C
 olivine,#9AB973
 onyx,#353839
@@ -533,7 +534,7 @@ orange-yellow,#F5BD1F
 orchid,#DA70D6
 orchid pink,#F2BDCD
 ou crimson red,#841617
-outer space ,#2D383A
+outer space,#2D383A
 outrageous orange,#FF6E4A
 oxblood,#4A0000
 oxford blue,#002147
@@ -543,7 +544,7 @@ palatinate purple,#682860
 pale cerulean,#9BC4E2
 pale dogwood,#ED7A9B
 pale pink,#FADADD
-pale purple ,#FAE6FA
+pale purple,#FAE6FA
 pale silver,#C9C0BB
 pale spring bud,#ECEBBD
 pansy purple,#78184A
@@ -592,7 +593,7 @@ powder blue,#B0E0E6
 princeton orange,#F58025
 prussian blue,#003153
 puce,#CC8899
-pullman brown ,#644117
+pullman brown,#644117
 pumpkin,#FF7518
 purple,#6A0DAD
 purple mountain majesty,#9678B6
@@ -639,7 +640,7 @@ rose vale,#AB4E52
 rosewood,#65000B
 rosso corsa,#D40000
 rosy brown,#BC8F8F
-royal blue ,#002366
+royal blue,#002366
 royal purple,#7851A9
 ruber,#CE4676
 rubine red,#D10056
