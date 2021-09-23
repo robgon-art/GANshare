@@ -1,5 +1,6 @@
 an archipelago
 an atoll
+a beach
 a bay
 a butte
 a canal
@@ -14,6 +15,7 @@ a delta
 a desert
 a dune
 an estuary
+farmland
 a fjord
 a geyser
 a glacier
