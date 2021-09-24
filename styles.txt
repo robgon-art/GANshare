@@ -5,5 +5,5 @@ fauvist
 futurist
 geometric
 impressionist
-postmodernist
+postmodern
 surrealist
