@@ -4,7 +4,7 @@
 By Robert. A Gonsalves</br>
 ![sample images](https://raw.githubusercontent.com/robgon-art/GANshare/main/GANshare%20cover%205.jpg)
 
-You can see my article on Medium.
+You can see my [article on Medium](https://towardsdatascience.com/ganshare-creating-and-curating-art-with-ai-for-fun-and-profit-1b3b4dcd7376).
 
 The source code and generated images are released under the [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/).</br>
 ![CC BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
