@@ -1,9 +1,0 @@
-abstract
-cubist
-expressionist
-fauvist
-futurist
-geometric
-impressionist
-postmodern
-surrealist
